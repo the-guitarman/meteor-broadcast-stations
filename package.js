@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'broadcast-stations',
+  name: 'the-guitarman:broadcast-stations',
   version: '0.0.1',
   summary: 'Find or check a broadcast station by name or alias name.',
-  git: 'https://github.com/the-guitarman/meteor-broadcast-stations',
+  git: 'https://github.com/the-guitarman/meteor-broadcast-stations.git',
   documentation: 'README.md'
 });
 
@@ -39,7 +39,7 @@ Package.onTest(function(api) {
     ], [
       'client', 'server'
   ]);
-  api.use('broadcast-stations');
+  api.use('the-guitarman:broadcast-stations');
   api.addFiles('test.coffee.md');
 });
 
