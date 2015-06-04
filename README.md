@@ -8,7 +8,7 @@ Check wether a string is a television or radio broadcast station.
 
 ## Installation
 
-meteor add the-guitarman:broadcast-station
+meteor add guitarman:broadcast-station
 
 ## Usage
 
