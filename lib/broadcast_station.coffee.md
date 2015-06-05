@@ -5,7 +5,8 @@ This object has the main logic of the Package.
     @BroadcastStation = BroadcastStation =
 
 
-## find(stationName, type = null), findStation(stationName, type = null)
+## find(stationName, type = null),  
+## findStation(stationName, type = null)
 
 These functions consume the name of the searched broadcast station. *find* validates the input parameters and calls *findStation*. You should use *find* instead of *findStation*.
 
