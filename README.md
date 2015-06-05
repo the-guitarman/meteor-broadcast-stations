@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/the-guitarman/meteor-broadcast-stations.svg?branch=master)](https://travis-ci.org/the-guitarman/meteor-broadcast-stations)
+
 # Find A Broadcast Station By Name Or An Alias
 
 Check wether a string is a television or radio broadcast station.
